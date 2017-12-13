@@ -58,7 +58,7 @@
     "mongodb-extended-json": "1.7.0",
     "mongoose": "4.11.14",
     "optimist": "0.6.1",
-    "request": "2.81.0",
+    "request": "2.83.0",
     "stream-meter": "~1.0.4",
     "yauzl": "^2.7.0",
     "yazl": "^2.4.2",
