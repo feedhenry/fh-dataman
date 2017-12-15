@@ -1,3 +1,6 @@
+## Deprecation Notice
+This repository has been deprecated and is **not being maintained** as of December 15th 2017. **It should not be used**. It is no longer used in the RHMAP platform. If you have any questions, please get in touch with the collaborators.
+
 # fh-dataman
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
